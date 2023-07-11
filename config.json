@@ -1,20 +1,21 @@
 {
-  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
+  "readmeUrl": "https://raw.githubusercontent.com/iambeto/iambeto/master/README.md",
   "title": "iambeto",
   "name": "Robert Cabrera",
   "ascii": "iambeto",
+  "jobTitle": "Software Development Manager at IBM",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "iambeto",
+    "linkedin": "rscabrera"
+    "threads": "iambeto76",
+    "twitter": "iambeto76",
   },
   "email": "rob@iambeto.com",
   "ps1_hostname": "iambeto.com",
   "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
-  "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
+  "repo": "https://github.com/iambeto/iambeto_com",
+  "resume_url": "https://github.com/iambeto/iambeto/blob/main/RSCABRERA.pdf",
+ 
   },
   "colors": {
     "light": {
@@ -36,4 +37,4 @@
       "red": "#BF616A"
     }
   }
-}
+
