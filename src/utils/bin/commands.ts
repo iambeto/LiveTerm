@@ -43,6 +43,10 @@ export const resume = async (args: string[]): Promise<string> => {
   return 'Opening resume...';
 };
 
+export const blog = async (args: string[]): Promise<string> => {
+  window.open(`https://someone-help.me${config.blog}`);
+  return 'Opening blog...';
+};
 
 // Contact
 export const email = async (args: string[]): Promise<string> => {
@@ -140,5 +144,6 @@ export const banner = (args?: string[]): string => {
 Type 'help' to see the list of available commands.
 Type 'sumfetch' to display summary.
 Type 'repo' or click <u><a class="text-light-blue dark:text-dark-blue underline" href="${config.repo}" target="_blank">here</a></u> for the Github repository.
+Type 'blog' or click <u><a class="text-light-blue dark:text-dark-blue underline" href="${config.blog}" target="_blank">here</a></u> for my blog.
 `;
 };
